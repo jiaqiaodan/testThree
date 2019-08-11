@@ -14,6 +14,8 @@ public class UserController {
 
     //这是第三次冲突
     private String  chongtu03;
+    //测试新手没有pull，直接push，的情况。
+    private String chongtu4_nopull;
 
 
 }
