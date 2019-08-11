@@ -4,5 +4,6 @@ public class UserController {
 
     private  String  id ;
     private  String name;
+    private String address;
 
 }
