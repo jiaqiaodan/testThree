@@ -17,5 +17,7 @@ public class UserController {
     //测试新手没有pull，直接push，的情况。
     private String chongtu4_nopull;
 
+    private String error;
+
 
 }
